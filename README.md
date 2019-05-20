@@ -1,4 +1,4 @@
-# data_bootcamp_final_project_2019
+# data_bootcamp_final_project
 
 
 This project was completed by Juan Armando Javier in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
